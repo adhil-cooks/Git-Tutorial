@@ -1,5 +1,6 @@
 ## Git File Lifecycle
 
+```text
 +-------------------+
 | Working Directory |
 | (modified files)  |
@@ -18,3 +19,4 @@
 | Repository        |
 | (commit history)  |
 +-------------------+
+```
