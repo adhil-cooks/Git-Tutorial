@@ -6,14 +6,14 @@
 | (modified files)  |
 +-------------------+
           |
-          | git add
+          | git add (to stage the files from working directory)
           v
 +-------------------+
 | Staging Area      |
 | (index)           |
 +-------------------+
           |
-          | git commit
+          | git commit (only add staged files to repo )
           v
 +-------------------+
 | Repository        |

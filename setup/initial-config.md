@@ -6,3 +6,7 @@
 
 # Verify configuration
 ```git config --global --list```
+
+```text
+Note: use --local insted of --global for the configuration specific to a single project
+```
