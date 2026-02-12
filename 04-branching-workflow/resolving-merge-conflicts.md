@@ -14,11 +14,11 @@ When merging, Git will show a message indicating which files have conflicts. You
 
 Open the file with conflicts. You'll see conflict markers like this:
 
-```
+```text
 <<<<<<< HEAD
-current branch code
+This is the code from the current branch
 =======
-incoming branch code
+This is the code from the incoming branch
 >>>>>>> feature-name
 ```
 
